@@ -692,7 +692,7 @@ class tx_directmail_pi1 extends \TYPO3\CMS\Frontend\Plugin\AbstractPlugin {
 		} elseif (substr($theLink,0,4) != 'http') {
 			$theLink = $this->siteUrl.$theLink;
 		}
-		return $this->cObj->getCurrentVal().' (###LINK_PREFIX### '.$theLink.' )';
+		return $this->cObj->getCurrentVal().' (###LINK_PREFIX### '.$theLink.')';
 	}
 
 	/**
