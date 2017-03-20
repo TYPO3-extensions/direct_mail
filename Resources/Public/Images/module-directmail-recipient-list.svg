@@ -1,25 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1000px"
-	 height="1000px" viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000" xml:space="preserve">
-<g id="Ebene_1">
-	<rect id="Background" fill="#997756" width="1000" height="1000"/>
-	
-		<rect id="inner" x="130.5" y="271.5" fill="none" stroke="#FFFFFF" stroke-width="55" stroke-miterlimit="10" width="737" height="461"/>
-	<polyline id="outer" fill="none" stroke="#FFFFFF" stroke-width="55" stroke-miterlimit="10" points="868,271 499.5,576.587 
-		131,271 	"/>
-	
-	<rect id="List" x="400" y="400" fill="#997756" width="500" height="500"/>
-	<line fill="none" stroke="#FFFFFF" stroke-width="40" stroke-miterlimit="10" x1="500" y1="460" x2="900" y2="460"/>
-	<line fill="none" stroke="#FFFFFF" stroke-width="40" stroke-miterlimit="10" x1="420" y1="460" x2="460" y2="460"/>
-	<line fill="none" stroke="#FFFFFF" stroke-width="40" stroke-miterlimit="10" x1="500" y1="560" x2="900" y2="560"/>
-	<line fill="none" stroke="#FFFFFF" stroke-width="40" stroke-miterlimit="10" x1="420" y1="560" x2="460" y2="560"/>
-	<line fill="none" stroke="#FFFFFF" stroke-width="40" stroke-miterlimit="10" x1="500" y1="660" x2="900" y2="660"/>
-	<line fill="none" stroke="#FFFFFF" stroke-width="40" stroke-miterlimit="10" x1="420" y1="660" x2="460" y2="660"/>
-	<line fill="none" stroke="#FFFFFF" stroke-width="40" stroke-miterlimit="10" x1="500" y1="760" x2="900" y2="760"/>
-	<line fill="none" stroke="#FFFFFF" stroke-width="40" stroke-miterlimit="10" x1="420" y1="760" x2="460" y2="760"/>
-	<line fill="none" stroke="#FFFFFF" stroke-width="40" stroke-miterlimit="10" x1="500" y1="860" x2="900" y2="860"/>
-	<line fill="none" stroke="#FFFFFF" stroke-width="40" stroke-miterlimit="10" x1="420" y1="860" x2="460" y2="860"/>
-</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>module-directmail-recipient-list</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="module-directmail-recipient-list" fill-rule="nonzero">
+            <g id="module-tstemplate" fill="#6068BE">
+                <polygon id="Shape" points="0 0 64 0 64 64 0 64"></polygon>
+            </g>
+            <path d="M30.2565714,39.112 C33.9414286,38.1852 36.0924286,37.3746 34.43,33.9572 C29.3745714,23.5594 33.0902857,18 38.4298571,18 C43.8748571,18 47.4992857,23.7736 42.4284286,33.9572 C40.7158571,37.3942 42.9902857,38.2048 46.5967143,39.112 C49.7891429,39.9156 50,41.6138 50,44.5566 L50,46 L26.8571429,46 C26.8571429,42.157 26.5742857,40.0388 30.2565714,39.112 Z M14,46 L24.0401429,46 C23.9951429,34.5522 28.4578571,38.5618 28.4578571,30.4222 C28.4578571,26.9068 26.3505714,25 23.639,25 C19.634,25 16.8478571,29.1706 20.6394286,36.9686 C21.8852857,39.5306 19.3138571,40.1396 16.5495714,40.834 C14.1555714,41.436 14,42.71 14,44.9178 L14,46 L14,46 Z" id="Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
 </svg>
